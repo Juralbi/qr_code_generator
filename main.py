@@ -28,3 +28,5 @@ def qr():
 
 if __name__ == "__main__":
    app.run(host='0.0.0.0')
+#Текстовый комментарий для проверки автодеплоя Jenkins
+print("Hello from Jenkins CI/CD!")
